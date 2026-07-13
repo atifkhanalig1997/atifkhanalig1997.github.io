@@ -1,6 +1,6 @@
 # atifkhanalig1997.github.io
 # Hi there, I'm Atif Ahmad Khan 👋
-<img width="1046" height="1390" alt="Photo 2024" src="https://github.com/user-attachments/assets/79ac44bb-4753-4b82-890c-50161e4067d6" />
+<img width="150" height="150" alt="Photo 2024" src="https://github.com/user-attachments/assets/79ac44bb-4753-4b82-890c-50161e4067d6" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Research-Cryptography-blue" />
