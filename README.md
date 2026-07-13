@@ -1,27 +1,24 @@
 # atifkhanalig1997.github.io
-# Hi there, I'm Atif Ahmad Khan 👋
-<img width="150" height="150" alt="Photo 2024" src="https://github.com/user-attachments/assets/79ac44bb-4753-4b82-890c-50161e4067d6" />
+<h1 align="center">Hi 👋, I'm Atif Ahmad Khan</h1>
+
+<h3 align="center">
+Ph.D. Research Scholar in Mathematics | Cryptography Researcher | Finite Fields | Coding Theory | Post-Quantum Cryptography
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research-Cryptography-blue" />
-  <img src="https://img.shields.io/badge/Mathematics-AMU-green" />
-  <img src="https://img.shields.io/badge/Focus-Post--Quantum%20Cryptography-orange" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
+---
 
 ## 👨‍🎓 About Me
 
-I am a **Ph.D. Research Scholar** in the **Department of Mathematics, Aligarh Muslim University (AMU), India**.
-
-My research focuses on the algebraic foundations of **Cryptography**, particularly the construction and analysis of **Maximum Distance Separable (MDS) matrices** over finite fields and finite commutative rings for secure and efficient cryptographic systems.
-
-I have more than **5 years of research experience** in Cryptography and Coding Theory and am currently seeking **Postdoctoral opportunities** in:
-
-- Code-Based Cryptography
-- Post-Quantum Cryptography
-- Symmetric-Key Cryptography
-- Coding Theory
-- Finite Fields
-- Algebraic Cryptography
+- 🎓 Ph.D. in Mathematics (Thesis Submitted), Aligarh Muslim University, India
+- 🔬 Researcher in **Cryptography, Coding Theory, Finite Fields, and Algebra**
+- 💡 Working on **Maximum Distance Separable (MDS) Matrices** and their applications in **Lightweight & Post-Quantum Cryptography**
+- 🌱 Currently exploring **Code-Based Cryptography**, **Galois Rings**, and **Skew Polynomial Rings**
+- 🌍 Open to **Postdoctoral Research Opportunities**
+- 📫 Email: **atifkhanalig1997@gmail.com**
 
 ---
 
@@ -31,81 +28,97 @@ I have more than **5 years of research experience** in Cryptography and Coding T
 - Post-Quantum Cryptography
 - Code-Based Cryptography
 - Lightweight Cryptography
-- Coding Theory
 - Finite Fields
 - Galois Rings
-- Ring Theory
+- Coding Theory
 - MDS Matrices
 - Recursive & Quasi-Recursive MDS Matrices
 - Skew Polynomial Rings
+- Algebraic Structures
 
 ---
 
 ## 🎓 Education
 
-**Ph.D. in Mathematics (Thesis Submitted)**  
-Aligarh Muslim University, India
-
-**Thesis Title**
-
-*A Study of Algebraic Aspects of Cryptography Involving MDS Matrices*
-
-**Supervisor**
-
-Prof. Shakir Ali
-
-**Co-Supervisor**
-
-Dr. Bhupendra Singh (DRDO)
+| Degree | Institution | Year |
+|---------|-------------|------|
+| Ph.D. in Mathematics (Thesis Submitted) | Aligarh Muslim University | 2026 |
+| M.Sc. Mathematics | Aligarh Muslim University | 2019 |
+| B.Sc. Mathematics | Aligarh Muslim University | 2017 |
 
 ---
 
 ## 🏆 Academic Achievements
 
-- CSIR-UGC Junior Research Fellowship (AIR 108)
-- CSIR-NET (AIR 56)
-- GATE (AIR 180)
-- IIT-JAM (AIR 380)
-- Senior Research Fellowship (SRF)
+- 🥇 CSIR-UGC Junior Research Fellowship (AIR 108)
+- 🥈 CSIR-NET (AIR 56)
+- 🥉 GATE (AIR 180)
+- 🎖 IIT-JAM (AIR 380)
+- ⭐ Senior Research Fellowship (SRF)
 
 ---
 
 ## 📚 Publications
 
-- **4** Published Journal Papers
-- **1** Accepted Paper
-- **4** Submitted Papers
-- **5** International Conference Presentations
+- 📄 **4** Published Journal Papers
+- ✅ **1** Accepted Paper
+- 📝 **4** Submitted Papers
+- 🎤 **5** International Conference Presentations
 
 ---
 
-## 🌍 International Experience
+## 🌍 International Research Experience
 
-🇮🇩 **CIMPA Research School 2025**
-
-Universitas Gadjah Mada, Indonesia
-
-🇮🇩 **SEAMS School 2024**
-
-Universitas Diponegoro, Indonesia
-
-Research visitor at Universitas Gadjah Mada.
+- 🇮🇩 CIMPA Research School 2025
+- 🇮🇩 SEAMS School 2024
+- 🇮🇩 Research Visitor at Universitas Gadjah Mada
 
 ---
 
 ## 💻 Technical Skills
 
-- SageMath
-- Python
-- LaTeX
-- Microsoft Word
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SageMath-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown"/>
+
+</p>
 
 ---
 
-## 📈 Current Research
+## 📊 GitHub Stats
 
-- MDS Matrices over Galois Rings
-- Recursive and Quasi-Recursive MDS Matrices
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Current Research
+
+- Construction of Recursive MDS Matrices
+- Quasi-Recursive MDS Matrices over Galois Rings
 - Cauchy MDS Matrices
 - Skew Polynomial Rings
 - Lightweight Cryptography
@@ -113,36 +126,48 @@ Research visitor at Universitas Gadjah Mada.
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Academic Profiles
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📫 Connect with Me
-
-📧 Email:
-- atifkhanalig1997@gmail.com
-- gi3812@myamu.ac.in
-
-🎓 Google Scholar
-https://scholar.google.com/citations?user=eHPMVh0AAAAJ&hl=en
-
-🆔 ORCID
-https://orcid.org/0009-0009-2371-5707
-
-📖 ResearchGate
-https://www.researchgate.net/profile/Atif-Khan-49
-
-📊 Scopus
-https://www.scopus.com/authid/detail.uri?authorId=59008264600
-
-🌐 Google Site
-https://sites.google.com/view/atif-ahmad-khan/home
+| Platform | Link |
+|----------|------|
+| 🎓 Google Scholar | https://scholar.google.com/citations?user=eHPMVh0AAAAJ&hl=en |
+| 🟢 ORCID | https://orcid.org/0009-0009-2371-5707 |
+| 📚 Scopus | https://www.scopus.com/authid/detail.uri?authorId=59008264600 |
+| 📖 ResearchGate | https://www.researchgate.net/profile/Atif-Khan-49 |
+| 🌎 Google Site | https://sites.google.com/view/atif-ahmad-khan/home |
 
 ---
 
-> *"Advancing algebraic methods for secure and efficient cryptographic systems."*
+## 🤝 Connect with Me
 
+<p>
+
+<a href="https://scholar.google.com/citations?user=eHPMVh0AAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/0009-0009-2371-5707">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Atif-Khan-49">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://www.scopus.com/authid/detail.uri?authorId=59008264600">
+<img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## 📌 Quote
+
+> *"Advancing algebraic foundations for secure and efficient cryptographic systems."*
+
+---
+
+<p align="center">
+⭐ If you find my work interesting, feel free to explore my repositories and connect for research collaborations.
+</p>
