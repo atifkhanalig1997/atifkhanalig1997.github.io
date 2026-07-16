@@ -29,17 +29,19 @@ Ph.D. Research Scholar | Cryptography Researcher | Finite Fields | Coding Theory
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Published%20Papers-4-success?style=for-the-badge"/>
+🟢 <b>Published Papers</b><br>
+<h1>④</h1>
 
-<img src="https://img.shields.io/badge/Accepted%20Paper-1-blue?style=for-the-badge"/>
+🔵 <b>Accepted Papers</b><br>
+<h1>①</h1>
 
-<img src="https://img.shields.io/badge/Submitted%20Papers-4-orange?style=for-the-badge"/>
+🟠 <b>Submitted Papers</b><br>
+<h1>④</h1>
 
-<img src="https://img.shields.io/badge/Conference%20Presentations-5-red?style=for-the-badge"/>
+🔴 <b>Conference Presentations</b><br>
+<h1>⑤</h1>
 
 </p>
-
----
 
 # 🏅 Fellowships & Grants
 
