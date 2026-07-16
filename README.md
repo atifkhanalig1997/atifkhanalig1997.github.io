@@ -1,240 +1,301 @@
-# atifkhanalig1997.github.io
-<h1 align="center">Hi 👋, I'm Atif Ahmad Khan</h1>
-
-<h3 align="center">
-Ph.D. Research Scholar | Cryptography Researcher | Finite Fields | Coding Theory | Post-Quantum Cryptography
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
-</p>
-
----
-
-# 👨‍🎓 About Me
-
-- 🎓 **Ph.D. in Mathematics (Thesis Submitted)**
-- 🏛 Department of Mathematics, Aligarh Muslim University, India
-- 🔬 Researcher in Cryptography, Coding Theory and Algebra
-- 💡 Working on **Maximum Distance Separable (MDS) Matrices**
-- 🌱 Currently exploring **Post-Quantum Cryptography**
-- 🤝 Open to **Postdoctoral Research Opportunities**
-- 📫 Email: **atifkhanalig1997@gmail.com**
-
----
-
-# 📊 Research Statistics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/●-4-success?style=flat-square&label=Published%20Papers"/>
-
-<img src="https://img.shields.io/badge/●-1-blue?style=flat-square&label=Accepted%20Paper"/>
-
-<img src="https://img.shields.io/badge/●-4-orange?style=flat-square&label=Submitted%20Papers"/>
-
-<img src="https://img.shields.io/badge/●-5-red?style=flat-square&label=Conference%20Presentations"/>
-
-</p>
-
-# 🏅 Fellowships & Grants
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/CSIR--UGC-JRF-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CSIR--UGC-SRF-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CIMPA-France-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SEAMS-Fellow-purple?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🔬 Research Interests
-
-- Cryptography
-- Post-Quantum Cryptography
-- Code-Based Cryptography
-- Lightweight Cryptography
-- Coding Theory
-- Finite Fields
-- Galois Rings
-- Ring Theory
-- MDS Matrices
-- Recursive MDS Matrices
-- Quasi-Recursive MDS Matrices
-- Skew Polynomial Rings
-
----
-
-# 🎓 Education
-
-| Degree | Institution | Year |
-|---------|-------------|------|
-| Ph.D. Mathematics (Thesis Submitted) | Aligarh Muslim University | 2026 |
-| M.Sc. Mathematics | Aligarh Muslim University | 2019 |
-| B.Sc. Mathematics | Aligarh Muslim University | 2017 |
-
----
-
-# 🌍 International Research Experience
-
-🇮🇩 CIMPA Research School 2025
-
-Universitas Gadjah Mada, Indonesia
-
-🇮🇩 SEAMS School 2024
-
-Universitas Diponegoro, Indonesia
-
-🔬 Research Visitor
-
-Universitas Gadjah Mada, Indonesia
-
----
-
-# 🏆 Academic Achievements
-
-🥇 CSIR–UGC Junior Research Fellowship (AIR 108)
-
-🥈 CSIR–NET (AIR 56)
-
-🥉 GATE (AIR 180)
-
-🏅 IIT–JAM (AIR 380)
-
----
-
-# 📚 Publications
-
-- 📄 **4 Published Journal Papers**
-- ✅ **1 Accepted Paper**
-- 📝 **4 Submitted Papers**
-- 🎤 **5 International Conference Presentations**
-
----
-
-# 🚀 Current Research
-
-- Recursive MDS Matrices
-- Quasi-Recursive MDS Matrices
-- Cauchy MDS Matrices
-- MDS Matrices over Galois Rings
-- Skew Polynomial Rings
-- Lightweight Cryptography
-- Post-Quantum Cryptography
-
----
-
-# 💻 Technical Skills
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SageMath-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown"/>
-
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Research Expertise
-
-```text
-Cryptography                ████████████████████ 100%
-
-Finite Fields               ████████████████████ 100%
-
-Coding Theory               ██████████████████░░ 90%
-
-Post-Quantum Cryptography   ████████████████░░░░ 80%
-
-Python                      ██████████████░░░░░░ 70%
-```
-
----
-
-# 🌐 Academic Profiles
-
-🎓 Google Scholar
-
-https://scholar.google.com/citations?user=eHPMVh0AAAAJ&hl=en
-
-🟢 ORCID
-
-https://orcid.org/0009-0009-2371-5707
-
-📚 Scopus
-
-https://www.scopus.com/authid/detail.uri?authorId=59008264600
-
-📖 ResearchGate
-
-https://www.researchgate.net/profile/Atif-Khan-49
-
-🌍 Google Site
-
-https://sites.google.com/view/atif-ahmad-khan/home
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="mailto:atifkhanalig1997@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://scholar.google.com/citations?user=eHPMVh0AAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0009-0009-2371-5707">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://www.researchgate.net/profile/Atif-Khan-49">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> **"Advancing algebraic foundations for secure and efficient cryptographic systems."**
-
-⭐ If you are interested in my research, feel free to explore my repositories and connect for collaborations.
-
-</p>
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* CV Container */
+.cv-container {
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* CV Header */
+.cv-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 40px 30px;
+    text-align: center;
+}
+
+.cv-header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+}
+
+.job-title {
+    font-size: 1.3em;
+    margin-bottom: 20px;
+    opacity: 0.9;
+}
+
+.contact-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    font-size: 0.9em;
+    margin-top: 15px;
+}
+
+.contact-info a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.contact-info a:hover {
+    opacity: 0.8;
+}
+
+/* CV Navigation */
+.cv-nav {
+    padding: 15px 30px;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #eee;
+}
+
+.cv-nav a {
+    display: inline-block;
+    color: #0066cc;
+    font-weight: 500;
+    padding: 8px 15px;
+    border: 1px solid #0066cc;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.cv-nav a:hover {
+    background-color: #0066cc;
+    color: white;
+    text-decoration: none;
+}
+
+/* CV Content */
+.cv-content {
+    padding: 40px 30px;
+}
+
+/* Section Styles */
+.cv-section {
+    margin-bottom: 30px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 25px;
+}
+
+.cv-section:last-of-type {
+    border-bottom: none;
+}
+
+.section-title {
+    font-size: 1.5em;
+    color: #667eea;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #667eea;
+    display: inline-block;
+}
+
+/* Job Entry Styles */
+.job-entry {
+    margin-bottom: 25px;
+}
+
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.job-header h3 {
+    font-size: 1.2em;
+    color: #333;
+}
+
+.date {
+    color: #999;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.company {
+    color: #666;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.job-entry ul {
+    list-style-position: inside;
+    color: #555;
+}
+
+.job-entry ul li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+/* Education Entry Styles */
+.education-entry {
+    margin-bottom: 20px;
+}
+
+.edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.edu-header h3 {
+    font-size: 1.1em;
+    color: #333;
+}
+
+.institution {
+    color: #666;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.gpa {
+    color: #999;
+    font-size: 0.9em;
+}
+
+/* Skills Grid */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.skill-category {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #667eea;
+    border-radius: 4px;
+}
+
+.skill-category h4 {
+    color: #667eea;
+    margin-bottom: 10px;
+}
+
+.skill-category p {
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Project Entry Styles */
+.project-entry {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #764ba2;
+    border-radius: 4px;
+}
+
+.project-entry h3 {
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.project-date {
+    color: #999;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.project-link {
+    margin-top: 10px;
+}
+
+.project-link a {
+    color: #764ba2;
+    font-weight: bold;
+}
+
+/* CV Footer */
+.cv-footer {
+    background-color: #f9f9f9;
+    padding: 20px 30px;
+    text-align: center;
+    color: #999;
+    font-size: 0.9em;
+    border-top: 1px solid #eee;
+}
+
+/* Print Styles */
+@media print {
+    body {
+        background-color: white;
+    }
+    
+    .cv-container {
+        max-width: 100%;
+        margin: 0;
+        box-shadow: none;
+        border-radius: 0;
+    }
+    
+    .cv-nav {
+        display: none;
+    }
+    
+    .cv-footer {
+        display: none;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .cv-header {
+        padding: 30px 20px;
+    }
+    
+    .cv-header h1 {
+        font-size: 2em;
+    }
+    
+    .contact-info {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .cv-content {
+        padding: 20px;
+    }
+    
+    .job-header,
+    .edu-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+    
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
+}
